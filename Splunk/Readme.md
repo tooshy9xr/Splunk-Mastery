@@ -31,4 +31,6 @@ Welcome to my **Splunk Security Operations & Threat Analysis project**! 🚀 Thi
 - 8️⃣ Threat Hunting
 - 9️⃣ Frameworks
 
-[search-FS](https://github.com/tooshy9xr/My-Project/blob/5e3466920d950bc5f7ba703166f239fd3fec4ad9/Splunk/Fundamental-Searches/FS.md)
+## use search in splunk
+[link](https://github.com/tooshy9xr/My-Project/blob/5e3466920d950bc5f7ba703166f239fd3fec4ad9/Splunk/Fundamental-Searches/FS.md)
+---
