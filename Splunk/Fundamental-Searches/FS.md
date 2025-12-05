@@ -23,4 +23,4 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 ---
 
 ## Search 🔎
-- ⚪ auth_success.spl [@](https://github.com/tooshy9xr/My-Project/blob/0ae30c419693837a9c4586645765583dce914175/Splunk/Fundamental-Searches/auth_success.spl) :- Searching for successful user logins.
+- ⚪ auth_success.spl [@](auth_success.spl) :- Searching for successful user logins.
