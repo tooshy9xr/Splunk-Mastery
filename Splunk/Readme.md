@@ -21,7 +21,7 @@ Welcome to my **Splunk Security Operations & Threat Analysis project**! 🚀 Thi
 - Blue Team / Red Team Techniques 🖥️
 ---
 ## 🖥️ Splunk Project Structure
-- 1️⃣ Fundamental Searches
+- 1️⃣ Fundamental Searches [link](Splunk/Fundamental-Searches/FS.md)
 - 2️⃣ Advanced Searches
 - 3️⃣ Dashboards
 - 4️⃣ Alerts
@@ -31,6 +31,4 @@ Welcome to my **Splunk Security Operations & Threat Analysis project**! 🚀 Thi
 - 8️⃣ Threat Hunting
 - 9️⃣ Frameworks
 
-## use search in splunk
-[link](/Fundamental-Searches)
 ---
