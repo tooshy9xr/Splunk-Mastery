@@ -24,4 +24,4 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 
 ## Search 🔎
 - ⚪ word-use-search [@](word-use-search.md)  :- all word use to search in splunk
-- ⚪ auth_success.spl [@](auth_success.spl) :- Searching for successful user logins.
+- ⚪ auth_success.md [@](auth_success.md) :- Searching for successful user logins.
