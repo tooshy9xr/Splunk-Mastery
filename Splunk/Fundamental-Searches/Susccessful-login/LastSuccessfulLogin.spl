@@ -1,0 +1,2 @@
+index=auth action=success
+| stats latest(_time) as last_login by user
