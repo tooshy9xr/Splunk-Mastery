@@ -15,7 +15,7 @@ This repository showcases practical Splunk skills through:
 - 📝 Documentation of analysis, notes, and progress
 ---
 ## - [Splunk](Splunk)
-- 1️⃣ Fundamental Searches [link](Splunk/Fundamental-Searches/FS.md)
+- 1️⃣ Fundamental Searches 
 - 2️⃣ Advanced Searches
 - 3️⃣ Dashboards
 - 4️⃣ Alerts
