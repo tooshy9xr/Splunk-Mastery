@@ -13,15 +13,6 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - **Application Logs** – Basic monitoring for app-specific events.  
 - **Sample Data** – Optional small log files for testing and demonstration.
 ---
-## 🔹 Usage
-1. Open Splunk and select the appropriate index.  
-2. Copy the `.spl` search query into the Splunk search bar.  
-3. Adjust time ranges or filters as needed.  
-4. Analyze results or save as reports/dashboards for further investigation.
-
- 
----
-
 ## Search 🔎
 - ⚪ word-use-search [@](word-use-search.md)  :- all word use to search in splunk
 - ⚪ auth_success.md [@](auth_success.md) :- Searching for successful user logins.
