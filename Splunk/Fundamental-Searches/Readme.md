@@ -30,7 +30,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ FailedAuthentication.md [@](Failed-Authentication.md) :- Easy Failed Authentication Searches
 - ⚪ File-Access.md [@](File-Access.md) :- File Access Searches
 - ⚪ WindowsProcessCreation.md [@](WindowsProcessCreation.md) :- Windows Process Creation Searches
-- ⚪
+- ⚪ LinuxProcessMonitoring.md [@](LinuxProcessMonitoring.md) :- Linux Process Monitoring Searches
 - ⚪
 - ⚪
 - ⚪
