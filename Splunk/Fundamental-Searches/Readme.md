@@ -25,7 +25,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 ## Search 🔎
 - ⚪ word-use-search [@](word-use-search.md)  :- all word use to search in splunk
 - ⚪ auth_success.md [@](auth_success.md) :- Searching for successful user logins.
-- ⚪ SWindowsAuthentication.md [@](WindowsAuthentication.md) :- Easy Windows Authentication Searches
+- ⚪ WindowsAuthentication.md [@](WindowsAuthentication.md) :- Easy Windows Authentication Searches
 - ⚪ LinuxAuthentication.md [@](LinuxAuthentication.md) :- Easy Linux Authentication Searches
 - ⚪ FailedAuthentication.md [@](Failed-Authentication.md) :- Easy Failed Authentication Searches
 - ⚪ File-Access.md [@](File-Access.md) :- File Access Searches
