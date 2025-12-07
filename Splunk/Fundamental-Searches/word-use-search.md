@@ -143,3 +143,48 @@
 * **baseline deviation** — Detect abnormal activity 📉
 * **lateral movement** — Attacker moving across systems 🧱➡️🧱
 ---
+## SPL Keyword Explanations 🚀
+- by 🧩
+
+Used to group results in commands like stats, chart, top, etc.<br>
+Meaning: Group events by a specific field.<br>
+Example: 
+`stats count by host`
+
+- as 🏷️
+Used to rename a field in the result.<br>
+Meaning: Give the field a new name.<br>
+Example:
+`stats count as total_events`
+
+- where 🔍  
+Used to filter results based on logic or conditions. <br>
+Example:
+`where bytes > 10000`
+
+- eval ⚙️
+Used to create new fields or modify existing ones.<br>
+Example:
+`eval status="OK"`
+
+- in 📚
+Checks if a field value matches any value in a list.<br>
+Example:
+`where status in ("404", "500", "403")`
+
+- like 🎯
+Used for pattern matching with wildcards (%).<br>
+Example:
+`where url like "/admin/%"`
+
+- AND, OR, NOT 🔗
+Logical operators for combining conditions.<br>
+Example:
+`status=200 AND method=GET`
+
+- by _time ⏱️
+Groups results by time, commonly used in timechart and stats.<br>
+Example:
+`stats count by _time`
+
+---
