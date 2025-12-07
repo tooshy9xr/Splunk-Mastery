@@ -1,2 +1,0 @@
-index=auth action=success
-| stats count by user
