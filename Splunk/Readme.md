@@ -11,14 +11,13 @@ Welcome to my **Splunk Security Operations & Threat Analysis project**! 🚀 Thi
 - **📥 Data Onboarding** – Sample datasets for Windows, Linux, and network devices.  
 - **💼 Use Cases** – Practical SOC scenarios, log investigations, and threat hunting playbooks.  
 - **🔍 Threat Hunting** – Hypotheses, queries, and reports to proactively detect anomalies.  
-- **🛡️ Frameworks** – Blue Team & Red Team templates for monitoring and attack simulations.
+- **🛡️ Frameworks** – Blue Team & Red Team templates for monitoring 
 ---
 ## ⭐ Key Skills Highlighted
 - Security Monitoring & Threat Detection 🛡️  
 - Incident Response & Digital Forensics (DFIR) 🔎  
 - Splunk SPL Query Writing & Dashboard Design 📊  
 - Threat Hunting & SOC Analysis 🎯  
-- Blue Team / Red Team Techniques 🖥️
 ---
 ## 🖥️ Splunk Project Structure
 - 🌎 some of word use to search [link](Fundamental-Searches/word-use-search.md)
