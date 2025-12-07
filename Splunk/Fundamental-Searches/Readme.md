@@ -24,7 +24,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ LinuxProcessMonitoring.md [@](LinuxProcessMonitoring.md) :- Linux Process Monitoring Searches
 - ⚪ Firewall-Monitoring.md [@](Firewall-Monitoring.md) :- Firewall & Network Monitoring — Windows & Linux
 - ⚪ SuspiciousCommandUsage.md [@](SuspiciousCommandUsage.md) :- Suspicious Command Usage — Linux searches
-- ⚪
+- ⚪  AdminPrivilegeChanges.md [@]( AdminPrivilegeChanges.md ) :- Admin Privilege Changes — Windows
 - ⚪
 - ⚪
 - ⚪
