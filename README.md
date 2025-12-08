@@ -26,6 +26,24 @@ This repository demonstrates practical Splunk skills through:
 
 ## 📂 Project Structure
 
+
+<a href="splunk/Readme.md" style="text-decoration: none;">
+  <div style="
+      border: 2px solid #4A90E2;
+      border-radius: 12px;
+      padding: 20px;
+      background: #E0F7FA;
+      width: 200px;
+      text-align: right;
+      font-family: Arial, sans-serif;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  ">
+    <h1 style="color: #28a745; margin: 0;">Splunk</h1>
+    <p style="color: #004D40; font-size: 10px; margin-top: 5px;">Click here to join in splunk</p>
+  </div>
+</a>
+
+
 | Module | Description | Link |
 |--------|------------|------|
 | 📜 **Overview for Splunk** | Review core concepts and project objectives | [Explore](#) |
