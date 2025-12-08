@@ -69,5 +69,3 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Application Errors](Application-Errors.md)  
 
 ---
-
-✅ هذا الإصدار مع **badges ملونة لكل فئة** يجعل الملف أكثر **تفاعلية وجاذبية** على GitHub، ويسهّل على المستخدمين التعرف على الفئات بسرعة.
