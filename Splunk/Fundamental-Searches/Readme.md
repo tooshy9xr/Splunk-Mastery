@@ -32,7 +32,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ Malware-Detection.md [@](Malware-Detection.md) :- Malware Detection Pack — Windows & Linux
 - ⚪ RemoteLoginDetection.md [@](RemoteLoginDetection.md) :-  Remote Login Detection — Windows & Linux  
 - ⚪ PrivilegeEscalationAttempt.md [@](PrivilegeEscalationAttempt.md) :- Privilege Escalation Attempt Detection — Windows & Linux
-- ⚪ 
+- ⚪ Critical-FileChanges.md [@](Critical-FileChanges.md) :- Critical File Changes — Windows & Linux
 - ⚪
 - ⚪
 - ⚪
