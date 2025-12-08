@@ -36,6 +36,8 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ Network-Connections.md [@](Network-Connections.md) :- Failed / Successful Network Connections — Windows & Linux
 - ⚪ suspiciousFileDownloads.md [@](SuspiciousFileDownloads.md) :- Suspicious File Downloads — Windows & Linux
 - ⚪ USB-Device.md [@](USB-Device.md) :- USB Device Usage — Windows & Linux
-- ⚪
+- ⚪ SystemBoot&Shutdown.md[@](SystemBoot&Shutdown.md) :- System Boot & Shutdown — Windows & Linux
+- ⚪ 
+- ⚪ 
 - ⚪
 - ⚪
