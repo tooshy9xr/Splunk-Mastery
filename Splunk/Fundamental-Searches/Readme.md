@@ -26,8 +26,8 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ SuspiciousCommandUsage.md [@](SuspiciousCommandUsage.md) :- Suspicious Command Usage — Linux searches
 - ⚪ AdminPrivilegeChanges.md [@]( AdminPrivilegeChanges.md ) :- Admin Privilege Changes — Windows
 - ⚪ UserCreation&Deletion.md [@](UserCreation&Deletion.md) :-  User Creation & Deletion — Windows & Linu
+- ⚪ ServiceStart-Stop.md [@](ServiceStart-Stop.md) :- Service Start/Stop — Windows & Linux
 - ⚪ 
-- ⚪
 - ⚪
 - ⚪
 - ⚪
