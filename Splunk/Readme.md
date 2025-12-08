@@ -6,7 +6,7 @@ This project demonstrates practical skills in **Digital Forensics, Incident Resp
 ---
 
 ## 🔹 Project Modules
-- 📝 **Fundamental Searches** – Basic SPL queries for authentication, system logs, and events. [Explore →](Fundamental-Searches/Readme.md)  
+- 📝 **Fundamental Searches** – Basic SPL queries for authentication, system logs, and events. [ Explore →](Fundamental-Searches/Readme.md)  
 - 🧩 **Advanced Searches** – Complex queries using subsearches, macros, and lookups.  
 - 📈 **Dashboards** – Interactive visualizations for quick security insights.  
 - 🚨 **Alerts** – Real-time notifications for critical events.  
@@ -27,16 +27,16 @@ This project demonstrates practical skills in **Digital Forensics, Incident Resp
 ---
 
 ## 🖥️ Splunk Project Structure
-- 📜 **Splunk Overview** – Review core concepts and project objectives.  
-- 🌎 **Word Use Search** – Sample queries and text search utilities [Explore →](Fundamental-Searches/word-use-search.md)  
-- 1️⃣ **Fundamental Searches** – Basic queries and monitoring [Explore →](Fundamental-Searches/Readme.md)  
-- 2️⃣ **Advanced Searches** – Subsearches, macros, and lookups  
-- 3️⃣ **Dashboards** – Interactive visualizations  
-- 4️⃣ **Alerts** – Real-time event notifications  
-- 5️⃣ **Correlation Rules** – Sophisticated attack detection  
-- 6️⃣ **Data Onboarding** – Sample datasets  
-- 7️⃣ **Use Cases** – SOC scenarios and threat hunting playbooks  
-- 8️⃣ **Threat Hunting** – Proactive anomaly detection  
-- 9️⃣ **Frameworks** – Blue Team & Red Team templates  
+- 📜 **Splunk Overview** 
+- 🌎 **Word Use Search**  [ Explore →](Fundamental-Searches/word-use-search.md)  
+- 1️⃣ **Fundamental Searches**  [ Explore →](Fundamental-Searches/Readme.md)  
+- 2️⃣ **Advanced Searches**   
+- 3️⃣ **Dashboards**   
+- 4️⃣ **Alerts** 
+- 5️⃣ **Correlation Rules** 
+- 6️⃣ **Data Onboarding**  
+- 7️⃣ **Use Cases**  
+- 8️⃣ **Threat Hunting**  
+- 9️⃣ **Frameworks**  
 
 ---
