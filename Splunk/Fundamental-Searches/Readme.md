@@ -1,29 +1,33 @@
-
 # 📝 Fundamental Searches (FS)
 
-The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to monitor and analyze core log data from various systems. These searches focus on common security and operational events, forming the foundation for SOC analysis, incident response, and threat detection.
+The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to monitor and analyze core log data. These searches cover common security and operational events, forming the foundation for SOC analysis, incident response, and threat detection.
 
 ---
 
 ## 🎯 Purpose
-- Teach and demonstrate **basic SPL query construction**.  
-- Monitor **authentication, system, and application logs**.  
-- Serve as building blocks for **advanced searches, dashboards, and alerts**.  
+- Teach and demonstrate **basic SPL query construction**  
+- Monitor **authentication, system, and application logs**  
+- Serve as building blocks for **advanced searches, dashboards, and alerts**  
 
 ---
 
-## 📂 Contents
-- **Authentication Searches** – Track successful and failed logins.  
-- **System Logs** – Monitor OS events and errors.  
-- **Application Logs** – Basic monitoring for app-specific events.  
-- **Sample Data** – Optional small log files for testing and demonstration.
+## 📂 Contents Overview
+- 🎯 **Sample Data** – Optional small log files for testing and demonstrations  
+- 🔐 **Authentication Searches** – Track successful and failed logins  
+- ⚙️ **System Logs & Services** – Monitor OS events, service status, CPU/Memory usage  
+- 📁 **Application & Process Monitoring** – Track apps, processes, and suspicious activity  
+- 🌐 **Network & Remote Access** – Monitor connections, firewalls, DNS, and remote logins  
+- 🛡 **Security & Privilege Monitoring** – Detect malware, privilege changes, account lockouts  
+- 📝 **Auditing & Threat Detection** – Critical file changes, logs deletion, configuration changes  
+
 
 ---
 
 ## 🔎 Search List
 
-### 🔍 Miscellaneous
+### 🎯 Miscellaneous / Sample Data
 - ⚪ [Word Use Search](word-use-search.md)  
+
 
 ### 🔐 Authentication
 - ⚪ [Successful Logins](auth_success.md)  
@@ -37,7 +41,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Linux Process Monitoring](LinuxProcessMonitoring.md)  
 - ⚪ [Suspicious Process Termination](SuspiciousProcessTermination.md)  
 
-### 🔧 System & Services
+### ⚙️ System & Services
 - ⚪ [Service Start/Stop](ServiceStart-Stop.md)  
 - ⚪ [Software Installation](SoftwareInstallation.md)  
 - ⚪ [System Boot & Shutdown](SystemBoot&Shutdown.md)  
@@ -67,3 +71,5 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Application Errors](Application-Errors.md)  
 
 ---
+
+✅ هذا الإصدار يسهّل على المستخدم **تحديد الفئة بسرعة** ويجعل الملف أكثر **جاذبية بصريًا** على GitHub.  
