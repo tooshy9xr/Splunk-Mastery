@@ -9,17 +9,17 @@ This project demonstrates practical skills in **Digital Forensics, Incident Resp
 
 | Module | Description | Link |
 |--------|------------|------|
-| 🌎 **Word Use Search** | Sample text search utilities | [Explore →](Fundamental-Searches/word-use-search.md) |
-| 📜 **Splunk Overview** | Review core concepts and project objectives | [Explore →](#) |
-| 📝 **Fundamental Searches** | Basic SPL queries for authentication, system logs, and events | [Explore →](Fundamental-Searches/Readme.md) |
-| 🧩 **Advanced Searches** | Complex queries using subsearches, macros, and lookups | [Explore →](#) |
-| 📈 **Dashboards** | Interactive visualizations for quick security insights | [Explore →](#) |
-| 🚨 **Alerts** | Real-time notifications for critical events | [Explore →](#) |
-| 🔗 **Correlation Rules** | Combine events to detect sophisticated attacks | [Explore →](#) |
-| 📥 **Data Onboarding** | Sample datasets for Windows, Linux, and network devices | [Explore →](#) |
-| 💼 **Use Cases** | Practical SOC scenarios, log investigations, and threat hunting playbooks | [Explore →](#) |
-| 🔍 **Threat Hunting** | Hypotheses, queries, and reports to proactively detect anomalies | [Explore →](#) |
-| 🛡️ **Frameworks** | Blue Team & Red Team templates for monitoring | [Explore →](#) |
+| 🌎 **Word Use Search** | Sample text search utilities | [Explore ](Fundamental-Searches/word-use-search.md) |
+| 📜 **Splunk Overview** | Review core concepts and project objectives | Explore |
+| 📝 **Fundamental Searches** | Basic SPL queries for authentication, system logs, and events | [Explore ](Fundamental-Searches/Readme.md) |
+| 🧩 **Advanced Searches** | Complex queries using subsearches, macros, and lookups | Explore |
+| 📈 **Dashboards** | Interactive visualizations for quick security insights | Explore |
+| 🚨 **Alerts** | Real-time notifications for critical events | Explore  |
+| 🔗 **Correlation Rules** | Combine events to detect sophisticated attacks | Explore  |
+| 📥 **Data Onboarding** | Sample datasets for Windows, Linux, and network devices | Explore  |
+| 💼 **Use Cases** | Practical SOC scenarios, log investigations, and threat hunting playbooks | Explore |
+| 🔍 **Threat Hunting** | Hypotheses, queries, and reports to proactively detect anomalies | Explore ) |
+| 🛡️ **Frameworks** | Blue Team & Red Team templates for monitoring | Explore  |
 
 ---
 
