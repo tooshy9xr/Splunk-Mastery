@@ -29,7 +29,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** desi
 - ⚪ ServiceStart-Stop.md [@](ServiceStart-Stop.md) :- Service Start/Stop — Windows & Linux
 - ⚪ SoftwareInstallation.md [@]( SoftwareInstallation.md) :- Software Installation — Windows & Linux
 - ⚪ Account-Lockouts.md [@](Account-Lockouts.md) :- Account Lockouts — Windows & Linux
-- ⚪
+- ⚪ Malware-Detection.md [@](Malware-Detection.md) :- Malware Detection Pack — Windows & Linux
 - ⚪
 - ⚪
 - ⚪
