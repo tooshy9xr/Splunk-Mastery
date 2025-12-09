@@ -12,7 +12,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 |        |             |      |
 | 📄 What is Splunk | Definition, purpose, and core capabilities | [Open](Introduction/what-is-splunk.md) |
 | 📦 Splunk Products | Enterprise, Cloud, ES, SOAR, Observability | [Open](Introduction/splunk-products.md)|
-| ⭐ Why Splunk is Important | Value in security, IT operations, and monitoring | Open |
+| ⭐ Why Splunk is Important | Value in security, IT operations, and monitoring | [Open](Introduction/why-splunk-is-important.md) |
 |        |             |      |
 | 🏗️ **2 – Architecture** | Core system architecture and data flow | 👇 |
 |        |             |      |
