@@ -56,5 +56,3 @@ Data can come from multiple sources, such as:
 The Splunk Data Pipeline ensures that **raw machine data transforms into actionable insights**. By understanding each stage—**collection, parsing, indexing, searching, alerting, and visualization**—you can design **efficient, scalable, and effective Splunk deployments**.  
 
 ---
-
-*Created with ❤️ for educational purposes.*
