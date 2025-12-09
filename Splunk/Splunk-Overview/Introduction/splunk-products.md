@@ -69,5 +69,3 @@ Splunk offers a suite of products that help organizations **monitor, analyze, an
 Splunk products cover a wide range of **IT, security, and observability needs**, allowing organizations to **collect, monitor, analyze, and act on data in real-time**. Choosing the right product depends on your **use case, deployment preference, and scale**.  
 
 ---
-
-*Created with ❤️ for educational purposes.*
