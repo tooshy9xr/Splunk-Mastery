@@ -14,7 +14,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 | 📦 Splunk Products | Enterprise, Cloud, ES, SOAR, Observability | Open|
 | ⭐ Why Splunk is Important | Value in security, IT operations, and monitoring | Open |
 |        |             |      |
-| 🏗️ **2 – Architecture** | Core system architecture and data flow | Explore |
+| 🏗️ **2 – Architecture** | Core system architecture and data flow | 👇 |
 |        |             |      |
 | 🧱 Core Components | Search Head, Indexer, Forwarders, DS, CM | Open |
 | 🔄 Data Pipeline | Input → Parsing → Indexing → Search Flow | Open |
@@ -22,13 +22,13 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 | 🔍 Search Head Explained | Search distribution & result merging | Open |
 | 📤 Forwarders Explained | UF vs HF + use-cases | Open |
 |       |
-| 📥 **3 – Data Onboarding** | Understanding input types & metadata | Explore |
+| 📥 **3 – Data Onboarding** | Understanding input types & metadata | 👇 |
 |        |             |      |
 | 📑 Data Types | Windows, Linux, Firewall, Cloud, Metrics | Open |
 | 🏷️ Sourcetypes | Proper sourcetype usage and importance | Open |
 | 🗂️ Metadata & Indexes | index / source / sourcetype explained | Open |
 |        |             |      |
-| 🧠 **4 – Knowledge Objects** | Logical structures that add meaning to data | Explore |
+| 🧠 **4 – Knowledge Objects** | Logical structures that add meaning to data | 👇 |
 |        |             |      |
 | 🟦 Fields | Automatic and custom field extraction | Open |
 | 🔍 Lookups | Data enrichment using CSV, KVStore, external sources | Open|
@@ -36,7 +36,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 | 🏷️ Tags | Logical grouping and labeling of events | Open |
 | 🧩 Data Models | CIM + acceleration + ES use-cases | Open |
 |        |             |      |
-| ⚙️ **5 – Operational Use** | Daily Splunk operations & maintenance | Explore |
+| ⚙️ **5 – Operational Use** | Daily Splunk operations & maintenance | 👇 |
 |        |             |      |
 | 📊 Dashboards Basics | Panels, inputs, visualizations | Open |
 | 🚨 Alerts Basics | RT alerts, scheduled alerts, throttling | Open|
