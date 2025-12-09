@@ -19,7 +19,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 | 🧱 Core Components | Search Head, Indexer, Forwarders, DS, CM | [Open](Architecture/splunk-core-components.md) |
 | 🔄 Data Pipeline | Input → Parsing → Indexing → Search Flow | [Open](Architecture/splunk-data-pipeline.md) |
 | 📚 Indexers Explained | Buckets, storage tiers, indexing logic | [Open](Architecture/indexers-explained.md) |
-| 🔍 Search Head Explained | Search distribution & result merging | Open |
+| 🔍 Search Head Explained | Search distribution & result merging | [Open](Architecture/search-head-explained.md) |
 | 📤 Forwarders Explained | UF vs HF + use-cases | Open |
 |       |
 | 📥 **3 – Data Onboarding** | Understanding input types & metadata | 👇 |
