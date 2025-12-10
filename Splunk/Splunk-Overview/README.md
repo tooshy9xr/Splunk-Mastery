@@ -43,13 +43,3 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 | 🔧 Monitoring & Maintenance | Indexer health, forwarder status, storage lifecycle | Open |
 
 ---
-
-# 🔥 Summary
-
-This folder provides:  
-✔ Complete beginner-to-advanced Splunk overview  
-✔ Clean documentation layout  
-✔ Clear explanations without SPL  
-✔ Professional GitHub-ready structure  
-✔ Sticker + Emoji–enhanced readability  
-
