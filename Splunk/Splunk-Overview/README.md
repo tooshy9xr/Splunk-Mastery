@@ -25,7 +25,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 | 📥 **3 – Data Onboarding** | Understanding input types & metadata | 👇 |
 |        |             |      |
 | 📑 Data Types | Windows, Linux, Firewall, Cloud, Metrics | [Open](Data-Onboarding/data-types.md)|
-| 🏷️ Sourcetypes | Proper sourcetype usage and importance | Open |
+| 🏷️ Sourcetypes | Proper sourcetype usage and importance | [Open](Data-Onboarding/sourcetypes.md) |
 | 🗂️ Metadata & Indexes | index / source / sourcetype explained | Open |
 |        |             |      |
 | 🧠 **4 – Knowledge Objects** | Logical structures that add meaning to data | 👇 |
