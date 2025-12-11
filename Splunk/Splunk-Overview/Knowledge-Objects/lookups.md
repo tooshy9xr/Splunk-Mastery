@@ -277,4 +277,3 @@ Understanding lookups is essential for:
 - Compliance dashboards  
 - Splunk Enterprise Security  
 
-This file is ready to use as `lookups.md` in your GitHub project.
