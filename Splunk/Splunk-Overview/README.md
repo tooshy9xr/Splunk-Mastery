@@ -32,7 +32,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 |        |             |      |
 | 🟦 Fields | Automatic and custom field extraction | [Open](Knowledge-Objects/fields.md) |
 | 🔍 Lookups | Data enrichment using CSV, KVStore, external sources | [Open](Knowledge-Objects/lookups.md) |
-| 🟨 Event Types | Categorizing similar events for easier analysis | Open |
+| 🟨 Event Types | Categorizing similar events for easier analysis | [Open](Knowledge-Objects/event-types.md) |
 | 🏷️ Tags | Logical grouping and labeling of events | Open |
 | 🧩 Data Models | CIM + acceleration + ES use-cases | Open |
 |        |             |      |
