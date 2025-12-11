@@ -89,13 +89,13 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 
 ### 📝 Auditing & Threat Detection
 - ⚪ [Suspicious Command Usage](Auditing&ThreatDetection/SuspiciousCommandUsage.md)  
-- ⚪ [Critical File Changes](Critical-FileChanges.md)  
-- ⚪ [Suspicious File Downloads](SuspiciousFileDownloads.md)  
-- ⚪ [USB Device Usage](USB-Device.md)  
-- ⚪ [Log Deletion Attempts](LogDeletionAttempts.md)  
-- ⚪ [Configuration Changes](ConfigurationChanges.md)  
-- ⚪ [Scheduled Task Creation](ScheduledTaskCreation.md)  
-- ⚪ [Application Errors](Application-Errors.md)  
+- ⚪ [Critical File Changes](Auditing&ThreatDetection/Critical-FileChanges.md)  
+- ⚪ [Suspicious File Downloads](Auditing&ThreatDetection/SuspiciousFileDownloads.md)  
+- ⚪ [USB Device Usage](Auditing&ThreatDetection/USB-Device.md)  
+- ⚪ [Log Deletion Attempts](Auditing&ThreatDetection/LogDeletionAttempts.md)  
+- ⚪ [Configuration Changes](Auditing&ThreatDetection/ConfigurationChanges.md)  
+- ⚪ [Scheduled Task Creation](Auditing&ThreatDetection/ScheduledTaskCreation.md)  
+- ⚪ [Application Errors](Auditing&ThreatDetection/Application-Errors.md)  
 - ⚪ Security Event Correlation  
 - ⚪ System Misconfigurations  
 - ⚪ Threat Detection Patterns  
