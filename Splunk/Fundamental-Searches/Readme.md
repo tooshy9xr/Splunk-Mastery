@@ -88,7 +88,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ Network Anomaly Detection  
 
 ### 📝 Auditing & Threat Detection
-- ⚪ [Suspicious Command Usage](SuspiciousCommandUsage.md)  
+- ⚪ [Suspicious Command Usage](Auditing&ThreatDetection/SuspiciousCommandUsage.md)  
 - ⚪ [Critical File Changes](Critical-FileChanges.md)  
 - ⚪ [Suspicious File Downloads](SuspiciousFileDownloads.md)  
 - ⚪ [USB Device Usage](USB-Device.md)  
