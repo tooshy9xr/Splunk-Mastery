@@ -263,4 +263,4 @@ Splunk dashboards provide:
 - Fast analytics via data models and tstats  
 - Critical insights for SOC, NOC, and IT operations  
 
-This file is ready to use as **dashboards-basics.md** in your GitHub documentation.
+
