@@ -314,4 +314,4 @@ Tags provide:
 
 Tags work best **with event types and CIM field models** to create a powerful, organized Splunk environment.
 
-This file is ready to use as **tags.md** in your GitHub project.
+.
