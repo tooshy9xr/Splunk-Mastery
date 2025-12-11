@@ -12,8 +12,6 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 ---
 
 ## 🔎 Search Details
-
-- ⚪ [Word Use Search](word-use-search.md)
   
 ### 🎯 Miscellaneous / Sample Data
   
