@@ -267,4 +267,4 @@ A healthy Splunk environment ensures:
 - Accurate analytics  
 - Stable dashboards & alerts  
 
-This file is ready for GitHub as **monitoring-and-maintenance.md**.
+
