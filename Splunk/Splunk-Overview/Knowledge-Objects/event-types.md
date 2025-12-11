@@ -271,4 +271,4 @@ Event types help you:
 
 They are foundational for **enterprise-level Splunk deployments** and should be carefully designed.
 
-This file is ready to use as `event-types.md` in your GitHub documentation.
+
