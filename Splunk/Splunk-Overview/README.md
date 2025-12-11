@@ -38,7 +38,7 @@ Designed as a clean, structured starting point for anyone learning Splunk.
 |        |             |      |
 | ⚙️ **5 – Operational Use** | Daily Splunk operations & maintenance | 👇 |
 |        |             |      |
-| 📊 Dashboards Basics | Panels, inputs, visualizations | Open |
+| 📊 Dashboards Basics | Panels, inputs, visualizations | [Open](Operational-Use/dashboards-basics.md) |
 | 🚨 Alerts Basics | RT alerts, scheduled alerts, throttling | Open|
 | 🔧 Monitoring & Maintenance | Indexer health, forwarder status, storage lifecycle | Open |
 
