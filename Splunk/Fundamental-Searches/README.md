@@ -49,17 +49,17 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Resource Monitoring](SystemLogs&Services/Performance-Metrics.md)
 
 ### 📁 File & Process Monitoring
-- ⚪ [File Access](File-Access.md)  
-- ⚪ [Windows Process Creation](WindowsProcessCreation.md)  
-- ⚪ [Linux Process Monitoring](LinuxProcessMonitoring.md)  
-- ⚪ [Suspicious Process Termination](SuspiciousProcessTermination.md)  
-- ⚪ File Deletions  
-- ⚪ File Modifications  
-- ⚪ Cron Job Monitoring  
-- ⚪ Scheduled Task Monitoring  
-- ⚪ Script Execution  
-- ⚪ Executable Launches  
-- ⚪ Sensitive File Tracking  
+- ⚪ [File Access](File&Process-Monitoring/File-Access.md)  
+- ⚪ [Windows Process Creation](File&Process-Monitoring/WindowsProcessCreation.md)  
+- ⚪ [Linux Process Monitoring](File&Process-Monitoring/LinuxProcessMonitoring.md)  
+- ⚪ [Suspicious Process Termination](File&Process-Monitoring/SuspiciousProcessTermination.md)  
+- ⚪ [File Deletion](File&Process-Monitoring/
+- ⚪ [File Modifications](File&Process-Monitoring/
+- ⚪ [Cron Job Monitoring](File&Process-Monitoring/
+- ⚪ [Scheduled Task Monitoring](File&Process-Monitoring/ 
+- ⚪ [Script Execution](File&Process-Monitoring/
+- ⚪ [Executable Launches](File&Process-Monitoring/
+- ⚪ [Sensitive File Tracking](File&Process-Monitoring/
 
 ### 🛡 Security & Privilege Monitoring
 - ⚪ [Admin Privilege Changes](AdminPrivilegeChanges.md)  
