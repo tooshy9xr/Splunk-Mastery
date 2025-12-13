@@ -37,10 +37,10 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Suspicious Logon Locations](Authentication-Searches/Suspicious-Logon-Locations.md)
 
 ### ⚙️ System Logs & Services
-- ⚪ [Service Start/Stop](ServiceStart-Stop.md)  
-- ⚪ [Software Installation](SoftwareInstallation.md)  
-- ⚪ [System Boot & Shutdown](SystemBoot&Shutdown.md)  
-- ⚪ [High CPU & Memory Usage](HighCPU&MemoryUsage.md)  
+- ⚪ [Service Start/Stop](SystemLogs&Services/ServiceStart-Stop.md)  
+- ⚪ [Software Installation](SystemLogs&Services/SoftwareInstallation.md)  
+- ⚪ [System Boot & Shutdown](SystemLogs&Services/SystemBoot&Shutdown.md)  
+- ⚪ [High CPU & Memory Usage](SystemLogs&Services/HighCPU&MemoryUsage.md)  
 - ⚪ [Disk Usage]  
 - ⚪ System Errors  
 - ⚪ Kernel Logs  
