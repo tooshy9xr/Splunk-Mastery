@@ -34,7 +34,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [LDAP Queries](Authentication-Searches/LDAP-Queries.md)
 - ⚪ [RADIUS/TACACS+ Logs](Authentication-Searches/RADIUS-TACACS+Logs.md)
 - ⚪ [Brute Force Detection](Authentication-Searches/BruteForce-Detection.md)
-- ⚪ Suspicious Logon Locations  
+- ⚪ [Suspicious Logon Locations](Authentication-Searches/Suspicious-Logon-Locations.md)
 
 ### ⚙️ System Logs & Services
 - ⚪ [Service Start/Stop](ServiceStart-Stop.md)  
