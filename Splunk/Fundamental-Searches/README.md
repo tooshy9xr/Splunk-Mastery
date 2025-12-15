@@ -74,17 +74,17 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Audit Failures](Security&Privilege-Monitoring/Audit-Failures.md)
 
 ### 🌐 Network & Remote Access
-- ⚪ [Firewall Monitoring](Firewall-Monitoring.md)  
-- ⚪ [Network Connections](Network-Connections.md)  
-- ⚪ [Remote Login Detection](RemoteLoginDetection.md)  
-- ⚪ [DNS Queries Monitoring](DNS-QueriesMonitoring.md)  
-- ⚪ VPN Connections  
-- ⚪ SSH Sessions  
-- ⚪ Proxy Logs  
-- ⚪ Suspicious IP Detection  
-- ⚪ GeoIP Analysis  
-- ⚪ Port Scanning Detection  
-- ⚪ Network Anomaly Detection  
+- ⚪ [Firewall Monitoring](Network&Remote-Access/Firewall-Monitoring.md)  
+- ⚪ [Network Connections](Network&Remote-Access/Network-Connections.md)  
+- ⚪ [Remote Login Detection](Network&Remote-Access/RemoteLoginDetection.md)  
+- ⚪ [DNS Queries Monitoring](Network&Remote-Access/DNS-QueriesMonitoring.md)  
+- ⚪ [VPN Connections](Network&Remote-Access/ 
+- ⚪ [SSH Sessions](Network&Remote-Access/
+- ⚪ [Proxy Logs](Network&Remote-Access/  
+- ⚪ [Suspicious IP Detection](Network&Remote-Access/  
+- ⚪ [GeoIP Analysis](Network&Remote-Access/  
+- ⚪ [Port Scanning Detection](Network&Remote-Access/ 
+- ⚪ [Network Anomaly Detection](Network&Remote-Access/  
 
 ### 📝 Auditing & Threat Detection
 - ⚪ [Suspicious Command Usage](Auditing&ThreatDetection/SuspiciousCommandUsage.md)  
