@@ -81,7 +81,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [VPN Connections](Network&Remote-Access/VPN-Connections.md)
 - ⚪ [SSH Sessions](Network&Remote-Access/SSH-Sessions.md)
 - ⚪ [Proxy Logs](Network&Remote-Access/Proxy-Logs.md)
-- ⚪ [Suspicious IP Detection](Network&Remote-Access/  
+- ⚪ [Suspicious IP Detection](Network&Remote-Access/Suspicious-IP-Detection.md)
 - ⚪ [GeoIP Analysis](Network&Remote-Access/  
 - ⚪ [Port Scanning Detection](Network&Remote-Access/ 
 - ⚪ [Network Anomaly Detection](Network&Remote-Access/  
