@@ -101,12 +101,12 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [User Behavior Analytics](Auditing&ThreatDetection/User-Behavior-Analytics.md)
 
 ### ☁️ Cloud Monitoring
-- ⚪ AWS Logs  
-- ⚪ Azure Logs  
-- ⚪ GCP Logs  
-- ⚪ Cloud Storage Access  
-- ⚪ Cloud IAM Changes  
-- ⚪ Cloud Network Traffic  
+- ⚪ [AWS Logs](Cloud-Monitoring/
+- ⚪ [Azure Logs](Cloud-Monitoring/ 
+- ⚪ [GCP Logs](Cloud-Monitoring/ 
+- ⚪ [Cloud Storage Access](Cloud-Monitoring/  
+- ⚪ [Cloud IAM Changes](Cloud-Monitoring/  
+- ⚪ [Cloud Network Traffic](Cloud-Monitoring/  
 
 ### 🗄️ Database Monitoring
 - ⚪ SQL Queries Monitoring  
