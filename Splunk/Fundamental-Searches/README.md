@@ -106,7 +106,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [GCP Logs](Cloud-Monitoring/GCP-Logs.md) 
 - ⚪ [Cloud Storage Access](Cloud-MonitoringCloud-Storage-Access.md) 
 - ⚪ [Cloud IAM Changes](Cloud-Monitoring/Cloud-IAM-Changes.md) 
-- ⚪ [Cloud Network Traffic](Cloud-Monitoring/  
+- ⚪ [Cloud Network Traffic](Cloud-Monitoring/Cloud-Network-Traffic.md)
 
 ### 🗄️ Database Monitoring
 - ⚪ SQL Queries Monitoring  
