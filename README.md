@@ -31,7 +31,7 @@ This repository demonstrates practical Splunk skills through:
 | 📜 **Overview for Splunk** | Review core concepts and project objectives | [Explore](Splunk/Splunk-Overview/README.md) |
 | 🌎 **Word Use Search** | Sample text search utilities | [Explore](Splunk/word-use-search.md) |
 | 📝 **Fundamental Searches** | Basic SPL queries for authentication, system, and application logs | [Explore](Splunk/Fundamental-Searches/README.md) |
-| 🧩 **Advanced Searches** | Subsearches, macros, lookups | Explore |
+| 🧩 **Advanced Searches** | Subsearches, macros, lookups | [Explore](Splunk/Advanced-Searches/README.md) |
 | 📊 **Dashboards** | Interactive visualizations | Explore |
 | 🚨 **Alerts** | Real-time notifications | Explore |
 | 🔗 **Correlation Rules** | Multi-event detection | Explore) |
