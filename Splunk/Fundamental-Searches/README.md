@@ -115,7 +115,7 @@ The **Fundamental Searches (FS)** folder contains **basic Splunk searches** to m
 - ⚪ [Slow Queries](Database-Monitoring/Slow-Queries.md) 
 
 ### 💻 Endpoint & Device Monitoring
-- ⚪ [Laptop & Workstation Logs](Endpoint&Device-Monitoring/
+- ⚪ [Laptop & Workstation Logs](Endpoint&Device-Monitoring/Laptop&Workstation-Logs.md)
 - ⚪ [Peripheral Device Monitoring](Endpoint&Device-Monitoring/  
 - ⚪ [Software Install/Uninstall](Endpoint&Device-Monitoring/  
 - ⚪ [Endpoint Threat Detection](Endpoint&Device-Monitoring/  
