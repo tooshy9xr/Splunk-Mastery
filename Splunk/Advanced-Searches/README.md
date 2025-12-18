@@ -40,7 +40,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ### 🧠 User & Entity Behavior Analytics (UEBA)
 - [User baseline profiling](User&Entity-Behavior-Analytics(UEBA)/User-baseline-profiling.md)  
 - [Abnormal login behavior](User&Entity-Behavior-Analytics(UEBA)/Abnormal-login-behavior.md)
-- [Rare command execution](User&Entity-Behavior-Analytics(UEBA)/ 
+- [Rare command execution](User&Entity-Behavior-Analytics(UEBA)/Rare-command-execution.md)
 - [Off-hours activity detection](User&Entity-Behavior-Analytics(UEBA)/  
 - [Behavioral drift analysis](User&Entity-Behavior-Analytics(UEBA)/
 
