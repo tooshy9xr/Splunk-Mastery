@@ -42,7 +42,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 - [Abnormal login behavior](User&Entity-Behavior-Analytics(UEBA)/Abnormal-login-behavior.md)
 - [Rare command execution](User&Entity-Behavior-Analytics(UEBA)/Rare-command-execution.md)
 - [Off-hours activity detection](User&Entity-Behavior-Analytics(UEBA)/Off-hours-activity-detection.md)  
-- [Behavioral drift analysis](User&Entity-Behavior-Analytics(UEBA)/
+- [Behavioral drift analysis](User&Entity-Behavior-Analytics(UEBA)/Behavioral-drift-analysis.md)
 
 ---
 
