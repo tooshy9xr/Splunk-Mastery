@@ -38,11 +38,11 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ---
 
 ### 🧠 User & Entity Behavior Analytics (UEBA)
-- User baseline profiling  
-- Abnormal login behavior  
-- Rare command execution  
-- Off-hours activity detection  
-- Behavioral drift analysis  
+- [User baseline profiling](Threat-Detection&Attack-Patterns/User-baseline-profiling.md)  
+- [Abnormal login behavior](Threat-Detection&Attack-Patterns/  
+- [Rare command execution](Threat-Detection&Attack-Patterns/  
+- [Off-hours activity detection](Threat-Detection&Attack-Patterns/  
+- [Behavioral drift analysis](Threat-Detection&Attack-Patterns/  
 
 ---
 
