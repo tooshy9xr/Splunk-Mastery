@@ -59,7 +59,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 - [Multi-step attack correlation](Event-Correlation&KillChains/Multi-step-attack-correlation.md)  
 - [MITRE ATT&CK mapping](Event-Correlation&KillChains/MITRE-ATT&CK-mapping.md)  
 - [Pre-attack → Post-exploitation flow](Event-Correlation&KillChains/Pre-attack→Post-exploitation-flow.md)  
-- [Kill chain reconstruction](Event-Correlation&KillChains/  
+- [Kill chain reconstruction](Event-Correlation&KillChains/Killchain-reconstruction.md) 
 - [Cross-platform attack paths](Event-Correlation&KillChains/  
 
 ---
