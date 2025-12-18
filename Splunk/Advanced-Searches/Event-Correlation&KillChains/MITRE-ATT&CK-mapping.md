@@ -81,5 +81,4 @@ It is a **foundational reference** for all advanced search, behavioral analytics
 This module provides a **professional, structured reference** for mapping **Splunk detections to MITRE ATT&CK tactics and techniques**.  
 It is **essential for mature SOCs, detection engineers, and threat hunters** aiming for **holistic threat coverage**.
 
-📁 Path:  
-`Splunk/Advanced-Searches/MITRE/MITRE-ATT&CK-mapping.md`
+
