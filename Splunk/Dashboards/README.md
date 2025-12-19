@@ -76,6 +76,23 @@ Every dashboard in this repository follows these principles:
 - KPI-only executive views
 
 ---
+## 🛠️ How Dashboards Are Built (Methodology)
+
+All dashboards in this section follow a **structured SOC-driven methodology** to ensure they are:
+
+- Purpose-built
+- Investigation-ready
+- Low-noise
+- High-impact
+
+This methodology defines **how any security dashboard should be designed**, from threat definition to visualization and operational use.
+
+➡️ **Dashboard creation methodology:**  
+📄 [`How-to-build-a-dashboard.md`](How-to-build-a-dashboard.md
+
+> Dashboards in this repository are not created ad-hoc —  
+> they are engineered using a repeatable, threat-focused process.
+---
 
 ## 🧠 Dashboard Domains Covered
 
