@@ -113,7 +113,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 - [Abnormal query behavior](Database&Application-Intelligence/Abnormal-query-behavior.md)  
 - [Data exfiltration via DB](Database&Application-Intelligence/Data-exfiltration-via-DB.md)
 - [Application abuse patterns](Database&Application-Intelligence/Application-abuse-patterns.md)  
-- [API misuse detection](Database&Application-Intelligence/ 
+- [API misuse detection](Database&Application-Intelligence/API-misuse-detection.md) 
 - [Insider threat indicators](Database&Application-Intelligence/
 
 ---
