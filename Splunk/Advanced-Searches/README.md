@@ -69,7 +69,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 - [DNS tunneling](Advanced-Network/DNS-tunneling.md)  
 - [East-West traffic anomalies](Advanced-Network/East-West-traffic-anomalies.md)  
 - [Encrypted traffic analysis](Advanced-Network/Encrypted-traffic-analysis.md) 
-- [Network behavior baselining](Advanced-Network/  
+- [Network behavior baselining](Advanced-Network/Network-behavior-baselining.md)  
 
 ---
 
