@@ -104,7 +104,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 - [Process lineage tracking](Endpoint-Advanced-Analytics/Process-lineage-tracking.md)
 - [Parent-child execution chains](Endpoint-Advanced-Analytics/Parent-child-execution-chains.md)
 - [Script chaining detection](Endpoint-Advanced-Analytics/Script-chaining-detection.md)
-- [Memory-based attack indicators](Endpoint-Advanced-Analytics/ 
+- [Memory-based attack indicators](Endpoint-Advanced-Analytics/Memory-based-attack-indicators.md) 
 - [Endpoint persistence analytics](Endpoint-Advanced-Analytics/  
 
 ---
