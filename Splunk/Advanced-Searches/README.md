@@ -94,7 +94,7 @@ This folder represents the **core intelligence layer** of your Splunk project.
 ### ☁️ Cloud & Hybrid Advanced Detection
 - [Cloud IAM abuse](Cloud&Hybrid-Advanced-Detection/Cloud-IAM-abuse.md)  
 - [Cloud privilege escalation](Cloud&Hybrid-Advanced-Detection/Cloud-privilege-escalation.md)
-- [API abuse detection](Cloud&Hybrid-Advanced-Detection/ 
+- [API abuse detection](Cloud&Hybrid-Advanced-Detection/API-abuse-detection.md)
 - [Cross-cloud correlation](Cloud&Hybrid-Advanced-Detection/  
 - [SaaS behavioral anomalies](Cloud&Hybrid-Advanced-Detection/  
 
